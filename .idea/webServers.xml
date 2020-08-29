@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7a3d9c41-862f-44ce-be11-a7b5e7fe5778" name="hazim" url="http://3.0.245.237">
+        <fileTransfer host="3.0.245.237" port="22" privateKey="$USER_HOME$/Downloads/Qareello_Key.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
