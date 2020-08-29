@@ -22,6 +22,13 @@ Vue.component('portfolio-component', require('./components/page/section/portfoli
 Vue.component('reference-component', require('./components/page/section/reference.vue').default);
 Vue.component('contact-component', require('./components/page/section/contact.vue').default);
 
+
+////////////////////// Portfolio ///////////////////////////////////////////
+
+Vue.component('portfolio-1', require('./components/page/portfolio/portfolio-1.vue').default);
+Vue.component('portfolio-2', require('./components/page/portfolio/portfolio-2.vue').default);
+Vue.component('portfolio-3', require('./components/page/portfolio/portfolio-3.vue').default);
+
 const app = new Vue({
     el: '#vue',
 });
