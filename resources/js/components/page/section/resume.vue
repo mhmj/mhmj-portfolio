@@ -58,7 +58,7 @@
                             <li>Tracking System : <a href="https://dev.hazimjais.com" target="_blank">www.dev.hazimjais.com</a></li>
                         </ul>
                         <p>
-                            Conducted IT Workshop to introduce the user in using the system.
+                            Conducted IT Workshop to assist the user in using the system.
                         </p>
                         <p>
                             Setup Version Control System(VCS) by using Github.
